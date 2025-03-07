@@ -21,3 +21,6 @@ Os principais parâmetros que afetam o comportamento de um modelo LLM são facil
 
 ## Conclusão  
 O Azure OpenAI Playground é uma ferramenta robusta que permite explorar o funcionamento dos modelos de IA. Ao ajustar os parâmetros adequadamente, é possível gerar desde respostas precisas e formais até textos inovadores e surpreendentes. A interação no playground simplifica o entendimento das capacidades da IA e suas possíveis aplicações em diversos cenários.  
+
+
+
